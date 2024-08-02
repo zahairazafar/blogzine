@@ -3,7 +3,7 @@ Theme Name: Blogzine
 Theme URI: https://scorpionthemes.com/downloads/blogzine-wordpress-blog-theme/
 Author: scorpionthemes
 Author URI: http://scorpionthemes.com
-Description:Blogzine is a minimalistic WordPress theme dedicated to blogs. Blog Inn provides a responsive layout with unlimited colors. 
+Description: Blogzine is a minimalistic WordPress theme dedicated to blogs. Blog Inn provides a responsive layout with unlimited colors. 
 It allows you to change the way you introduce posts for pictures and texts for an appealing look. It is modern, clean, colorful and responsive.
  Blogzine is a minimalistic WordPress theme dedicated to blogs. Blogzine provides a responsive layout with unlimited colors. It allows you to change the way you introduce posts for pictures and texts for an appealing look. It is modern, clean, colorful and responsive.
  
@@ -58,6 +58,9 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
+
+HERE IS FOR TEST Only
+
 html {
 font-family: sans-serif;
 -webkit-text-size-adjust: 100%;
